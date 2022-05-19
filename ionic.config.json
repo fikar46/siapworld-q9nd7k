@@ -1,0 +1,8 @@
+{
+  "name": "siapworld",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a8cb6db2"
+}
